@@ -251,6 +251,7 @@ p{max-width:62ch}
 
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
+  .stack__card{position:static;margin-bottom:2.5rem}
   .js [data-reveal],.js [data-fade]{opacity:1;transform:none}
   .split-w>span{transform:none}
   *{transition-duration:.01ms!important;animation:none!important}
