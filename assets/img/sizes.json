@@ -1,0 +1,98 @@
+{
+ "lab-ampla-sm": [
+  960,
+  720
+ ],
+ "lab-ampla-lg": [
+  1600,
+  1200
+ ],
+ "codigo-em-tela-sm": [
+  960,
+  720
+ ],
+ "codigo-em-tela-lg": [
+  1600,
+  1200
+ ],
+ "maos-na-massa-sm": [
+  720,
+  960
+ ],
+ "maos-na-massa-lg": [
+  1200,
+  1600
+ ],
+ "aula-binario-sm": [
+  720,
+  960
+ ],
+ "aula-binario-lg": [
+  1200,
+  1600
+ ],
+ "turma-banner-sm": [
+  960,
+  720
+ ],
+ "turma-banner-lg": [
+  1600,
+  1200
+ ],
+ "roda-acolhimento-sm": [
+  960,
+  720
+ ],
+ "roda-acolhimento-lg": [
+  1600,
+  1200
+ ],
+ "veteranas-sm": [
+  960,
+  720
+ ],
+ "veteranas-lg": [
+  1600,
+  1200
+ ],
+ "primeira-turma-sm": [
+  960,
+  720
+ ],
+ "primeira-turma-lg": [
+  1600,
+  1200
+ ],
+ "busca-ativa-sm": [
+  960,
+  720
+ ],
+ "busca-ativa-lg": [
+  1600,
+  1200
+ ],
+ "flyer-escola-sm": [
+  720,
+  960
+ ],
+ "flyer-escola-lg": [
+  1200,
+  1600
+ ],
+ "snct-oficina-1-sm": [
+  540,
+  960
+ ],
+ "snct-oficina-1-lg": [
+  899,
+  1599
+ ],
+ "snct-oficina-2-sm": [
+  540,
+  960
+ ],
+ "snct-oficina-2-lg": [
+  899,
+  1599
+ ]
+}
